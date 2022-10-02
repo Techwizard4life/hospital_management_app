@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_828029_hospital.admin" name="x_828029_hospital.admin">a22aa06d2fd251108bb6b8e72799b623</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-02 07:10:36</sys_created_on>
+        <sys_id>622aa06d2fd251108bb6b8e72799b624</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a22aa06d2fd251108bb6b8e72799b623</sys_name>
+        <sys_package display_value="Hospital Management System" source="x_828029_hospital">38b928ed2fd251108bb6b8e72799b6fc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hospital Management System">38b928ed2fd251108bb6b8e72799b6fc</sys_scope>
+        <sys_update_name>sys_embedded_help_role_622aa06d2fd251108bb6b8e72799b624</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-02 07:10:36</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

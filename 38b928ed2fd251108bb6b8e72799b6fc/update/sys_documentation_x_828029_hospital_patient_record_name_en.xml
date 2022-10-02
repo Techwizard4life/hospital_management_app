@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="name" label="Patient Name" language="en" table="x_828029_hospital_patient_record">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <help/>
+            <hint/>
+            <label>Patient Name</label>
+            <language>en</language>
+            <name>x_828029_hospital_patient_record</name>
+            <plural>Patient Names</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-02 07:19:36</sys_created_on>
+            <sys_id>923c28a12f1651108bb6b8e72799b64d</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Patient Name</sys_name>
+            <sys_package display_value="Hospital Management System" source="x_828029_hospital">38b928ed2fd251108bb6b8e72799b6fc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Hospital Management System">38b928ed2fd251108bb6b8e72799b6fc</sys_scope>
+            <sys_update_name>sys_documentation_x_828029_hospital_patient_record_name_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-02 09:45:25</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
